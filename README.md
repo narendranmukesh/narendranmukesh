@@ -8,14 +8,15 @@ Passionate about clean code, problem-solving, and continuous learning.
 🔧 Technologies & Tools
 🟡 Languages
 
-
-
+Java 
+Python
+Sql
 
 
 
 🟢 Backend & Frameworks
 
-
+SpringBoot
 
 
 🔵 Tools

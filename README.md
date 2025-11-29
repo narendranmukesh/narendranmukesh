@@ -8,18 +8,85 @@ Passionate about clean code, problem-solving, and continuous learning.
 🔧 Technologies & Tools
 🟡 Languages
 
+These are the languages commonly used in Java backend development:
 
+Java (Core + Advanced)
 
+SQL
 
+HTML, CSS (for backend developers – basic knowledge)
 
+JavaScript (optional, for full-stack basics)
 
-🟢 Backend & Frameworks
+🟢 Java Frameworks & Backend
 
+All popular Java backend frameworks & libraries:
 
+Spring Boot
 
+Spring MVC
 
-🔵 Tools
+Spring Framework
 
+Spring Data JPA
+
+Hibernate ORM
+
+JPA (Java Persistence API)
+
+Servlets & JSP (core Java web basics)
+
+RESTful Web Services
+
+JUnit / Mockito (testing)
+
+🧰 Tools & Build Systems
+
+Essential tools used in Java projects:
+
+Apache Maven
+
+Gradle
+
+Git & GitHub
+
+Postman (for API testing)
+
+IntelliJ IDEA
+
+Eclipse IDE
+
+VS Code (Java Extensions)
+
+Tomcat Server
+
+🗄️ Databases
+
+Common databases used with Java backend:
+
+MySQL
+
+PostgreSQL
+
+Oracle Database
+
+SQLite
+
+MongoDB (optional – NoSQL)
+
+☁️ Cloud & Deployment (Beginner-friendly for Java)
+
+Useful if you deploy Java applications:
+
+AWS EC2 (deploy Java backend)
+
+AWS RDS (MySQL/Postgres)
+
+Docker (containerize Java apps)
+
+Heroku / Render (easy deployments)
+
+AWS S3 (store files/images)
 
 
 
@@ -49,8 +116,7 @@ Student & To-Do Apps	Console apps with OOP	Java
 
 ➡️ More projects in my repositories…
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=narendranmukesh&show_icons=true&theme=react" height="160px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narendranmukesh&layout=compact&theme=react" height="160px"/> </p>
+
 🔥 GitHub Streak
 <p align="center"> <img src="https://streak-stats.demolab.com?user=narendranmukesh&theme=react&date_format=j%20M%5B%20Y%5D" /> </p>
 📨 Connect With Me
